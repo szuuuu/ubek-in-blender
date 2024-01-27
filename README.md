@@ -1,5 +1,8 @@
 # ubek-in-blender
 This little python script imports the levels from the 1995 Amiga game "Ubek" into Blender.
+
+The effect is shown in this youtube video: https://youtu.be/zmdKzVL3jFI
+
 Not a true addon, sorry... But with so very limited audience and usefulness there is little incentive for doing anything more than a quick and dirty script that does its work. And actually, calling such experimental code from the scripting text editor can be even quite convenient, especially when simultaneously tweaking the ubek.py source (hint: import reload; reload(ubek))
 
 `data/textures` contains all in-game textures converted to PNG.
